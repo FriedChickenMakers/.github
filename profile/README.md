@@ -112,13 +112,13 @@ IDEA  →  DESIGN  →  BUILD  →  TEST  →  SHIP
       <sub>Project Lead</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/ForestHouse2316">
+      <a href="https://github.com/DeepMatcha">
         <img
-          src="https://github.com/ForestHouse2316.png"
+          src="https://github.com/DeepMatcha.png"
           width="100"
-          alt="ForestHouse2316"
+          alt="DeepMatcha"
         /><br />
-        <sub><b>@ForestHouse2316</b></sub>
+        <sub><b>@DeepMatcha</b></sub>
       </a><br />
       <sub>Client Developer</sub>
     </td>
